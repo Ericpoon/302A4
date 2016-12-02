@@ -24,13 +24,21 @@
       <file leaf-file-name="q2.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/q2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="862" column="55" selection-start-line="862" selection-start-column="55" selection-end-line="862" selection-end-column="55" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1480713865000" expanded="true" signature="24352:24362" placeholder="..." />
-                <marker date="1480713865000" expanded="true" signature="26001:26011" placeholder="..." />
+                <marker date="1480716735000" expanded="true" signature="2983:3018" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,6 +59,7 @@
         <option value="$PROJECT_DIR$/去.js" />
         <option value="$PROJECT_DIR$/q1.js" />
         <option value="$PROJECT_DIR$/q1c.js" />
+        <option value="$PROJECT_DIR$/html.html" />
         <option value="$PROJECT_DIR$/q2.js" />
       </list>
     </option>
@@ -122,14 +132,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../302 Assignment 3" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.q2.js (1)">
-    <configuration default="false" name="q1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/q1a.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="JavaScript Debug.html.html">
+    <configuration default="false" name="html.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:63342/302 Assignment 4/html.html">
       <method />
     </configuration>
     <configuration default="false" name="q2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/q1b.js" working-dir="$PROJECT_DIR$">
@@ -139,6 +150,9 @@
       <method />
     </configuration>
     <configuration default="false" name="q2.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="q2.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="html.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/302 Assignment 4/html.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -194,18 +208,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.q1.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.html.html" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.q2.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.q1c.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.q2.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.html.html (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.q2.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.q2.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.q1c.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.q1.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.html.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.q2.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.q2.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.q1c.js" />
       </list>
     </recent_temporary>
   </component>
@@ -225,25 +241,25 @@
       <workItem from="1480348818449" duration="13884000" />
       <workItem from="1480432109382" duration="909000" />
       <workItem from="1480455154563" duration="494000" />
-      <workItem from="1480704827873" duration="7743000" />
+      <workItem from="1480704827873" duration="10746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23030000" />
+    <option name="totallyTimeSpent" value="26033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="22" width="1523" height="933" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1551265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28537455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28537455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -339,7 +355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assig3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3975">
+        <state relative-caret-position="543">
           <caret line="275" column="13" selection-start-line="275" selection-start-column="13" selection-end-line="275" selection-end-column="13" />
           <folding>
             <marker date="1479507762000" expanded="true" signature="8749:8759" placeholder="..." />
@@ -348,14 +364,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/q2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="862" column="55" selection-start-line="862" selection-start-column="55" selection-end-line="862" selection-end-column="55" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1480713865000" expanded="true" signature="24352:24362" placeholder="..." />
-            <marker date="1480713865000" expanded="true" signature="26001:26011" placeholder="..." />
+            <marker date="1480716735000" expanded="true" signature="2983:3018" placeholder="..." />
           </folding>
         </state>
       </provider>
